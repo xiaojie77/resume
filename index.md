@@ -6,11 +6,11 @@
 
 ### 个人信息
 
-- 姓名：义明杰
-- 性别：男
-- 出生日期：2002-01-23
-- 技术博客：
-- github：[xiaojie77](https://github.com/xiaojie77)
+- 姓名：XXX
+- 性别：X
+- 出生日期：XXXX-XX-XX
+- 技术博客：XXXX
+- github：XXXXX
 
 ### 工作经历
 
